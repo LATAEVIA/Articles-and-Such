@@ -1,11 +1,9 @@
 import {Component} from '@angular/core';
 
 @Component({
-  selector: 'my-app',
-  template: `
-    <h1>Load Articles Here</h1>
-  `,
+  selector: 'app-root',
+  templateUrl: 'app/app.component.html'
 })
 export class AppComponent {
-  
+  title = 'Load Articles Here!';
 }
