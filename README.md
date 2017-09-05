@@ -14,7 +14,7 @@ _You will need the following things properly installed on your computer._
 
 * [Git](http://git-scm.com/)
 * [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/)
+
 
 ## Installation
 
@@ -31,7 +31,6 @@ _You will need the following things properly installed on your computer._
 * _JavaScript_
 * _Node.js_
 * _Node Package Manager_
-* _Bower_
 * _Typescript_
 * _Angular 2_
 
