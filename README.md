@@ -1,20 +1,42 @@
-# angular2-quickstart
+# _Articles and Such_
 
-This tiny repo is done according to angular2 quickstart guide
-just to show how simple it is to use angular2 with 3rd party ng2-* modules
-like this one: https://github.com/valor-software/ng2-bootstrap
+#### _Code exercise for Scholastica., 09/04/2017_
 
-# Quick start
+#### By _**LaTaevia**_
 
-Clone this repo
-`npm i` and `npm start` and you are ready!
+## Description
 
-## How to add ng2-bootstrap to your project
-Add `map` for `moment.js` and `ng2-bootstrap` in system.js config
-  ```js
-    'moment': 'node_modules/moment/moment.js',
-    'ng2-bootstrap/ng2-bootstrap': 'node_modules/ng2-bootstrap/bundles/ng2-bootstrap.umd.js',
-  ```
-Done
+_Web page loading articles from a JSON endpoint utilizing Angular 2, allowing users to view articles, load more articles, and view single articles._
 
-Good luck with angular2 hacking!
+## Prerequisites
+
+_You will need the following things properly installed on your computer._
+
+* [Git](http://git-scm.com/)
+* [Node.js](http://nodejs.org/) (with NPM)
+* [Bower](http://bower.io/)
+
+## Installation
+
+* `git clone https://github.com/LATAEVIA/Articles-and-Such`
+* navigate into the new directory
+* `npm i`
+* `npm start`
+
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _Bootstrap_
+* _JavaScript_
+* _Node.js_
+* _Node Package Manager_
+* _Bower_
+* _Typescript_
+* _Angular 2_
+
+### License
+
+*This software is licensed under the MIT license*
+
+Copyright (c) 2017 **_LaTaevia_**ght (c) 2017 **_LaTaevia_**
